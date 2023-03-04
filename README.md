@@ -1,5 +1,6 @@
 ## EDA-of-Covid-data-using-SQL
 Explanatory Data analysis of Covid dataset using Microsoft SQL Server Management Studio.
+
 SQL is a useful resource for performing EDA on large datasets. 
 The dataset I used is from the website https://ourworldindata.org.
 Please, use this link for the latest data of Coronovirus (Covid-19).
