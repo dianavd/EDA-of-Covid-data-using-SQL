@@ -18,7 +18,7 @@ FROM CovidProject..CovidVaccinations
 ORDER BY 3, 4
 
 
--- Show Top 50 Records of both Tables
+-- Show Top 20 Records of both Tables
 
 SELECT TOP 20 * 
 FROM CovidProject..CovidDeaths 
